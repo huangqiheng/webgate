@@ -1,0 +1,28 @@
+{
+  "name": "webgate",
+  "version": "1.0.0",
+  "description": "there is no description",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-error-handler": "^1.1.0",
+    "express-ip-filter": "^2.0.0",
+    "http-auth": "^3.2.3",
+    "http-proxy": "^1.16.2",
+    "ip-filter": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huangqiheng/webgate.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/huangqiheng/webgate/issues"
+  },
+  "homepage": "https://github.com/huangqiheng/webgate#readme"
+}
